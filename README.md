@@ -1,6 +1,6 @@
 ## Selamat datang di halaman github efzet
 
-### mencari apa?
+### apo cari? singgah lah lu.. caliak lah lu..
 
 - Klik untuk melihat [Ucapan Selamat Ulang Tahun untuk Rafika Oktari ke-22](https://efzyx.github.io/fika-birthday)
 - Cek [Youtube channel saya](https://youtube.com/fauzipadlaw)
