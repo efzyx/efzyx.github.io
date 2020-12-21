@@ -1,7 +1,5 @@
 ## Selamat datang di halaman github efzet
 
-![](https://hit.yhype.me/github/profile?user_id=15975922)
-
 ### apo cari? singgah lah lu.. caliak lah lu..
 
 - Klik untuk melihat [Ucapan Selamat Ulang Tahun untuk Fika ke-22](https://efzyx.github.io/fika-birthday)
@@ -10,3 +8,5 @@
 - [SPK AHP-Fuzzy](https://fuzzy-ahp.herokuapp.com)
 - [SPK TOPSIS](https://spk-topsis.herokuapp.com/)
 
+
+![](https://hit.yhype.me/github/profile?user_id=15975922)
